@@ -21,13 +21,13 @@
         font-size: 30px;
     }
     .logo{
-        margin-left: 10px;
+        margin-left: 8px;
         margin-top: 0px;
     }
     .items{
-        gap: 15px;
+        gap: 10px;
         margin-top: 13px;
-        margin-right: 8px;
+        margin-right: 20px;
         font-size: 18px;
     }
     .btn-2{
@@ -40,7 +40,7 @@
         margin-right: 10px;
     }
     .btn{
-        margin-right: 20px;
+        margin-right: 35px;
         margin-top: 15px;
     }
 
@@ -59,7 +59,7 @@
         border-radius: 22px;
         height: 320px;
         width: 284px;
-        margin-left: 45px;
+        margin-left: 40px;
         margin-top: 105px;
         
     }
@@ -73,13 +73,13 @@
         font-size: 18px;
         margin-top: 10px;
         width: 300px;
-        margin-left: 50px;
+        margin-left: 30px;
     }
     .s-1-ls{
         width: 100%;
     }
     .btn-s{
-        margin-left: 85px;
+        margin-left: 75px;
         margin-top: 25px;
     }
     .btn-s-1 , .btn-s-2{
@@ -111,7 +111,7 @@
     }
     .r-s-2 {
         margin-top: -285px;
-        margin-left: -250px;
+        margin-left: -260px;
         
     }
     .r-s-2 p {
@@ -121,7 +121,7 @@
     }
     .common-section {
         flex-direction: column;
-        margin-left: 12px;
+        margin-left: 0px;
         width: 100%;
         height: 740px;
         margin-bottom: 40px;
@@ -149,7 +149,7 @@
     /* section-3 */
 
     .third-section{
-        height: 1400px;
+        height: 1440px;
         margin-top: -20px;
     }
     .third-section h2{
@@ -167,7 +167,7 @@
     }
     .task-1 , .task-2 , .task-3{
         width: 95%;
-        height: 335px;
+        height: 345px;
         margin-bottom: 15px;
     }
     .task-1 h3 , .task-2 h3 , .task-3 h3{   
@@ -182,22 +182,22 @@
 
     }
     .r-s-4 figure {                   /* for backside color of the image */ 
-        margin-left: 40px;
+        margin-left: 30px;
         margin-top: 35px;
-        width: 300px;
+        width: 280px;
         height: 470px;
     }
     .r-s-4 .yoga-1{
-        margin-left: -35px;
+        margin-left: -25px;
         margin-top: 300px;
         height: 70px;
-        width: 60px;
+        width: 50px;
     }
     .r-s-4 .yoga-2{
         margin-left: 15px;
         margin-top: -40px;
         height: 70px;
-        width: 60px;
+        width: 50px;
     }
     .r-s-4 .middle-yoga { 
         width: 200px;
@@ -207,9 +207,9 @@
     }
     .r-s-4 .yoga-3{
         margin-top: 146px;
-        margin-left: 19px;
+        margin-left: 20px;
         height: 70px;
-        width: 60px;
+        width: 50px;
     }
     .section-4 {
         flex-direction: column-reverse;
@@ -226,6 +226,7 @@
         width: 344px;
     }
     .l-s-4 p {
+        margin-left: -10px;
         font-size: 18px;
         width: 344px;
     }
@@ -253,23 +254,26 @@
     .section-5 {
         flex-direction: column;
         margin-left: -55px;
-        height: 1180px;
+        height: 1200px;
         margin-top: 60px;
     }
+    .l-s-5{
+        height: auto;
+    }
     .l-s-5 .first {
-        height: 390px;
-        width: 290px;
+        height: 385px;
+        width: 280px;
         margin-left: -12px;
 
     }
     .l-s-5 .second {
         width: 129px;
         height: 244px;
-        margin-left: -61px;
+        margin-left: -60px;
     }
     .r-s-5 {
         width: 344px;
-        margin-top: 15px;
+        margin-top: 30px;
         margin-left: 275px;
     }
     .r-s-5 h2 {
@@ -290,7 +294,7 @@
     .r-s-5 p {
         margin-top: -40px;
         margin-bottom: -10px;
-        margin-left: -180px;
+        margin-left: -200px;
         font-size: 18px;
         width: 344px;
     }
@@ -301,7 +305,7 @@
     footer {
         margin-top: 50px;
         flex-direction: column;
-        height: 230px;    
+        height: 240px;    
     }
     .left-footer {
         margin-top: 20px;
@@ -329,14 +333,14 @@
         top: 25%;   
     }
     .icon-bar a {
-        width: 130px;
+        width: 133px;
         font-size: 13px;
         padding: 1px;        
         transform: translateX(-102px) ;
     }
     .icon-bar a img {
-       
-        margin-left: 8px;
+        margin-right: 2px;
+        margin-left: 10px;
     }
 
 }
