@@ -21,7 +21,7 @@
         font-size: 30px;
     }
     .logo{
-        margin-left: 8px;
+        margin-left: 4px;
         margin-top: 0px;
     }
     .items{
@@ -106,7 +106,7 @@
     .r-s-2 h2 {
         margin-left: 287px;
         font-size: 32px;
-        width: 344px;
+        width: 300px;
         margin-bottom: 10px;
     }
     .r-s-2 {
@@ -226,7 +226,7 @@
         width: 344px;
     }
     .l-s-4 p {
-        margin-left: -10px;
+        margin-left: -20px;
         font-size: 18px;
         width: 344px;
     }
@@ -269,7 +269,7 @@
     .l-s-5 .second {
         width: 129px;
         height: 244px;
-        margin-left: -60px;
+        margin-left: -82px;
     }
     .r-s-5 {
         width: 344px;
@@ -286,7 +286,7 @@
     .r-s-5 h3 {
         margin-top: 34px;
         width: 344px;
-        margin-left: -198px;
+        margin-left: -205px;
         margin-bottom: 52px;
         font-size: 27px;
     
@@ -294,7 +294,7 @@
     .r-s-5 p {
         margin-top: -40px;
         margin-bottom: -10px;
-        margin-left: -200px;
+        margin-left: -205px;
         font-size: 18px;
         width: 344px;
     }
