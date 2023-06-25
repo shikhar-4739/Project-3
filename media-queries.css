@@ -1,4 +1,4 @@
-@media screen and (max-width: 375px){
+@media screen and (max-width: 345px){
     body{
         overflow-x: hidden;
     }
@@ -21,7 +21,7 @@
         font-size: 30px;
     }
     .logo{
-        margin-left: 4px;
+        margin-left:4px;
         margin-top: 0px;
     }
     .items{
@@ -285,7 +285,7 @@
     }
     .r-s-5 h3 {
         margin-top: 34px;
-        width: 344px;
+        width: 290px;
         margin-left: -205px;
         margin-bottom: 52px;
         font-size: 27px;
@@ -294,7 +294,7 @@
     .r-s-5 p {
         margin-top: -40px;
         margin-bottom: -10px;
-        margin-left: -205px;
+        margin-left: -210px;
         font-size: 18px;
         width: 344px;
     }
