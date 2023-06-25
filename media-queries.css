@@ -60,7 +60,7 @@
         height: 320px;
         width: 284px;
         margin-left: 40px;
-        margin-top: 105px;
+        margin-top: 120px;
         
     }
     .s-1-ls h1 {
@@ -303,7 +303,7 @@
     /* footer */
 
     footer {
-        margin-top: 70px;
+        margin-top: 85px;
         flex-direction: column;
         height: 240px;    
     }
